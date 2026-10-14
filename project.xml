@@ -2,7 +2,7 @@
 <project>
 
 	<meta title="MattyTools" package="com.matty.mattytools" version="1.0.0" company="Matty" />
-	<app main="Main" path="export" file="MattyTools" />
+	<app main="matty.tools.App" path="export" file="MattyTools" />
 
 	<source path="source" />
 	<assets path="assets" />
