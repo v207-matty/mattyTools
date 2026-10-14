@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="MattyTools" package="com.matty.mattytools" version="1.0.0" company="Matty" />
+	<app main="Main" path="export" file="MattyTools" />
+
+	<source path="source" />
+	<assets path="assets" />
+
+	<haxelib name="openfl" />
+
+</project>
